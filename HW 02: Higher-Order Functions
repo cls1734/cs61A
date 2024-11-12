@@ -1,0 +1,11 @@
+from operator import add, mul
+
+square = lambda x: x * x
+
+identity = lambda x: x
+
+triple = lambda x: 3 * x
+
+increment = lambda x: x + 1
+
+#这几个lambda表达式是这次作业的前提
